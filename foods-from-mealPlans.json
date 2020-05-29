@@ -1,0 +1,1521 @@
+{
+    "correspondences": [
+        {
+            "food_id": 3399,
+            "food_name": "Cereals ready-to-eat, granola, homemade",
+            "onto_foods": [
+                "Cereal"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28198,
+            "food_name": "Yoghurt, low fat (Danone Vitalinea/Shape)",
+            "onto_foods": [
+                "Yoghurt"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4024,
+            "food_name": "Pears, raw, bosc",
+            "onto_foods": [
+                "Pear"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 5270,
+            "food_name": "Nuts, pecans",
+            "onto_foods": [
+                "Nut",
+                "Pecan"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 1755,
+            "food_name": "Cheese, fresh, queso fresco",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7462,
+            "food_name": "Archway Home Style Cookies, Oatmeal",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 8061,
+            "food_name": "Pasta, fresh-refrigerated, plain, cooked",
+            "onto_foods": [
+                "Pasta"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 4848,
+            "food_name": "Vegetables, mixed, frozen, cooked, boiled, drained, without salt",
+            "onto_foods": [
+                "Vegetable"
+            ],
+            "onto_cooking_style": "Frozen"
+        },
+        {
+            "food_id": 2196,
+            "food_name": "Oil, olive, salad or cooking",
+            "onto_foods": [
+                "Oil"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 45383,
+            "food_name": "Fruit",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48456,
+            "food_name": "Catfish, flesh only, steamed",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48522,
+            "food_name": "Cheese, Quark",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28488,
+            "food_name": "Soup, vegetable (carrot, celery, tomato, onion), homemade",
+            "onto_foods": [
+                "Vegetable"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 23134,
+            "food_name": "Country-style bread, French bread (baguette or ball)",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28936,
+            "food_name": "Cheese, Gouda, fat",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4817,
+            "food_name": "Tomatoes, red, ripe, raw, year round average",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4554,
+            "food_name": "Cucumber, peeled, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4596,
+            "food_name": "Lettuce, iceberg (includes crisphead types), raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4496,
+            "food_name": "Carrots, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 1677,
+            "food_name": "Egg, whole, cooked, hard-boiled",
+            "onto_foods": [
+                "Egg"
+            ],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 9984,
+            "food_name": "Salad Dressing, mayonnaise-like, fat-free",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 3767,
+            "food_name": "Bananas, raw",
+            "onto_foods": [
+                "Banana"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48309,
+            "food_name": "Bread, wholemeal, average",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49216,
+            "food_name": "Honey",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 3989,
+            "food_name": "Strawberries, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 49868,
+            "food_name": "Pepper, capsicum, red, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4509,
+            "food_name": "Celery, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48294,
+            "food_name": "Bread, pitta, white",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50319,
+            "food_name": "Salad, green",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6408,
+            "food_name": "Falafel, home-prepared",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 1573,
+            "food_name": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7874,
+            "food_name": "Snacks, rice cakes, brown rice, corn",
+            "onto_foods": [
+                "Rice"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6536,
+            "food_name": "Peanut butter, chunk style, without salt",
+            "onto_foods": [
+                "Butter",
+                "Peanut"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50631,
+            "food_name": "Tofu, soya bean, steamed, fried",
+            "onto_foods": [
+                "Tofu",
+                "Bean"
+            ],
+            "onto_cooking_style": "Fried"
+        },
+        {
+            "food_id": 49649,
+            "food_name": "Noodles, egg, thick, dried, boiled in unsalted water",
+            "onto_foods": [
+                "Egg"
+            ],
+            "onto_cooking_style": "Dried"
+        },
+        {
+            "food_id": 48802,
+            "food_name": "Curly kale, boiled in unsalted water",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 50724,
+            "food_name": "Vegetables, mixed, stir-fry type, frozen, fried in rapeseed oil",
+            "onto_foods": [
+                "Vegetable"
+            ],
+            "onto_cooking_style": "Frozen"
+        },
+        {
+            "food_id": 48928,
+            "food_name": "Dates, raw, flesh and skin",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48287,
+            "food_name": "Bread, brown, toasted",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 81521,
+            "food_name": "Brie de Meaux cheese, from cow's milk",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 82483,
+            "food_name": "Chicken cooked ham, in slices",
+            "onto_foods": [
+                "Chicken"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 22928,
+            "food_name": "Jam, strawberry",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 27522,
+            "food_name": "Figs, dried",
+            "onto_foods": [
+                "Fig"
+            ],
+            "onto_cooking_style": "Dried"
+        },
+        {
+            "food_id": 49940,
+            "food_name": "Pineapple, raw, flesh only",
+            "onto_foods": [
+                "Pineapple"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 28948,
+            "food_name": "Quark, fresh cheese, low-fat",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7797,
+            "food_name": "Honey",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 2872,
+            "food_name": "Soup, vegetable, canned, low sodium, condensed",
+            "onto_foods": [
+                "Vegetable"
+            ],
+            "onto_cooking_style": "Canned"
+        },
+        {
+            "food_id": 50265,
+            "food_name": "Rice, white, basmati, boiled in unsalted water",
+            "onto_foods": [
+                "Rice"
+            ],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 48571,
+            "food_name": "Chicken, breast, grilled without skin, meat only",
+            "onto_foods": [
+                "Meat",
+                "Chicken"
+            ],
+            "onto_cooking_style": "Grilled"
+        },
+        {
+            "food_id": 3894,
+            "food_name": "Orange juice, raw",
+            "onto_foods": [
+                "Juice",
+                "Orange"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4595,
+            "food_name": "Lettuce, cos or romaine, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 7138,
+            "food_name": "Bread, sticks, plain",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 1775,
+            "food_name": "Yogurt, Greek, plain, nonfat",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 47929,
+            "food_name": "Apples, eating, raw, flesh and skin",
+            "onto_foods": [
+                "Apple"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 67479,
+            "food_name": "Seeds, hemp seed, hulled",
+            "onto_foods": [
+                "Seed"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6219,
+            "food_name": "Fish, salmon, Atlantic, wild, cooked, dry heat",
+            "onto_foods": [
+                "Fish",
+                "Salmon"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 8089,
+            "food_name": "Pasta, whole-wheat, cooked",
+            "onto_foods": [
+                "Pasta"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 49422,
+            "food_name": "Lemon juice, fresh",
+            "onto_foods": [
+                "Juice",
+                "Lemon"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 47949,
+            "food_name": "Asparagus, boiled in unsalted water",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 50511,
+            "food_name": "Spring onions, bulbs and tops, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 5228,
+            "food_name": "Nuts, almonds, dry roasted, without salt added",
+            "onto_foods": [
+                "Nut",
+                "Almond"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7133,
+            "food_name": "Bread, whole-wheat, commercially prepared",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 1680,
+            "food_name": "Egg, whole, cooked, scrambled",
+            "onto_foods": [
+                "Egg"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 1665,
+            "food_name": "Yogurt, plain, low fat",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50216,
+            "food_name": "Raisins",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 2327,
+            "food_name": "Margarine-like spread, SMART BEAT Super Light without saturated fat",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48507,
+            "food_name": "Cheese, Feta",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 21552,
+            "food_name": "Pasta, with vegetables, raw",
+            "onto_foods": [
+                "Pasta",
+                "Vegetable"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 47958,
+            "food_name": "Avocado, average, flesh only",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 81232,
+            "food_name": "Pita bread",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 5236,
+            "food_name": "Nuts, cashew nuts, raw",
+            "onto_foods": [
+                "Nut",
+                "Cashew"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 49969,
+            "food_name": "Plums, Victoria, flesh and skin, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 6533,
+            "food_name": "Peanuts, spanish, oil-roasted, without salt",
+            "onto_foods": [
+                "Peanut"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 22692,
+            "food_name": "Sandwich made with pita bread, kebab and raw vegetables",
+            "onto_foods": [
+                "Bread",
+                "Vegetable"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 1664,
+            "food_name": "Yogurt, plain, whole milk",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6030,
+            "food_name": "Fish, cod, Atlantic, cooked, dry heat",
+            "onto_foods": [
+                "Fish",
+                "Cod"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 49644,
+            "food_name": "Nectarines, flesh and skin, weighed with stones",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 21654,
+            "food_name": "Coffee infusion, with milk",
+            "onto_foods": [
+                "Coffee"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28398,
+            "food_name": "Peanut butter (Kelkin, no added sugar)",
+            "onto_foods": [
+                "Butter",
+                "Peanut"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49845,
+            "food_name": "Pears, raw, flesh only, peeled, weighed with skin and core",
+            "onto_foods": [
+                "Pear"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 81224,
+            "food_name": "Brown bread, French bread (baguette or ball), with flour type 80 or 110",
+            "onto_foods": [
+                "Bread",
+                "Flour"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48530,
+            "food_name": "Cheese, spreadable, soft white, low fat",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 9953,
+            "food_name": "Ham, turkey, sliced, extra lean, prepackaged or deli",
+            "onto_foods": [
+                "Turkey"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28479,
+            "food_name": "Soup, mushroom, homemade",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49528,
+            "food_name": "Melon, flesh only, average",
+            "onto_foods": [
+                "Melon"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7704,
+            "food_name": "Candies, SPECIAL DARK Chocolate Bar",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 81128,
+            "food_name": "Ware potato, boiled/cooked in water, peeled",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 4658,
+            "food_name": "Peas and carrots, frozen, cooked, boiled, drained, without salt",
+            "onto_foods": [
+                "Pea"
+            ],
+            "onto_cooking_style": "Frozen"
+        },
+        {
+            "food_id": 28303,
+            "food_name": "Salad, mixed",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7062,
+            "food_name": "Veal, leg, top round, cap off, cutlet, boneless, cooked, grilled",
+            "onto_foods": [
+                "Veal"
+            ],
+            "onto_cooking_style": "Grilled"
+        },
+        {
+            "food_id": 50680,
+            "food_name": "Turkey slices",
+            "onto_foods": [
+                "Turkey"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50300,
+            "food_name": "Rocket, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 50641,
+            "food_name": "Tomatoes, standard, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 47997,
+            "food_name": "Bananas, flesh only",
+            "onto_foods": [
+                "Banana"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 67694,
+            "food_name": "Crackers, gluten-free, multigrain and vegetable, made with corn starch and white rice flour",
+            "onto_foods": [
+                "Corn",
+                "Rice",
+                "White rice",
+                "Vegetable"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48170,
+            "food_name": "Beetroot, boiled in unsalted water",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 50346,
+            "food_name": "Salmon, wild, grilled",
+            "onto_foods": [
+                "Salmon"
+            ],
+            "onto_cooking_style": "Grilled"
+        },
+        {
+            "food_id": 4687,
+            "food_name": "Potatoes, boiled, cooked in skin, flesh, without salt",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 50537,
+            "food_name": "Strawberries, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48249,
+            "food_name": "Blackberries, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 3554,
+            "food_name": "Cereals, QUAKER, Quick Oats, Dry",
+            "onto_foods": [
+                "Cereal",
+                "Oat"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49569,
+            "food_name": "Milk, skimmed, pasteurised, winter",
+            "onto_foods": [
+                "Milk"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 5304,
+            "food_name": "Seeds, flaxseed",
+            "onto_foods": [
+                "Flax",
+                "Seed"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 8098,
+            "food_name": "Quinoa, cooked",
+            "onto_foods": [
+                "Quinoa"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 4468,
+            "food_name": "Broccoli, cooked, boiled, drained, without salt",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 28870,
+            "food_name": "Salad, mixed, 7 vegetables",
+            "onto_foods": [
+                "Vegetable"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50465,
+            "food_name": "Sorbet, fruit",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 82286,
+            "food_name": "Cod, cooked (average)",
+            "onto_foods": [
+                "Cod"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 49826,
+            "food_name": "Peaches, flesh and skin, raw, weighed with stone",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 50734,
+            "food_name": "Walnuts, kernel only",
+            "onto_foods": [
+                "Walnut"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 29559,
+            "food_name": "Rye brown bread with soybeans and sunflower seeds",
+            "onto_foods": [
+                "Bread",
+                "Rye",
+                "Soybean",
+                "Seed",
+                "Sunflower seed"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 10117,
+            "food_name": "Cheese, cottage, lowfat, 1% milkfat, with vegetables",
+            "onto_foods": [
+                "Cheese",
+                "Vegetable"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4742,
+            "food_name": "Radishes, oriental, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 47930,
+            "food_name": "Apples, eating, raw, flesh and skin, weighed with core",
+            "onto_foods": [
+                "Apple"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 5846,
+            "food_name": "Beverages, coffee, brewed, prepared with tap water",
+            "onto_foods": [
+                "Coffee"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48990,
+            "food_name": "Eggs, chicken, whole, scrambled, without milk",
+            "onto_foods": [
+                "Egg",
+                "Chicken"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 2326,
+            "food_name": "Margarine-like spread, SMART BALANCE Light Buttery Spread",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 7239,
+            "food_name": "Crackers, crispbread, rye",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 26799,
+            "food_name": "Cheese : Feta",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 1633,
+            "food_name": "Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D",
+            "onto_foods": [
+                "Milk"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4553,
+            "food_name": "Cucumber, with peel, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4059,
+            "food_name": "Apples, raw, gala, with skin",
+            "onto_foods": [
+                "Apple"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48500,
+            "food_name": "Cheese, cottage, plain, reduced fat",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 26737,
+            "food_name": "Olive oil, extra virgin ",
+            "onto_foods": [
+                "Oil",
+                "Olive oil"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49415,
+            "food_name": "Leeks in cheese sauce, made with skimmed milk, homemade",
+            "onto_foods": [
+                "Cheese",
+                "Milk"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6400,
+            "food_name": "Tofu, fried",
+            "onto_foods": [
+                "Tofu"
+            ],
+            "onto_cooking_style": "Fried"
+        },
+        {
+            "food_id": 48669,
+            "food_name": "Cinnamon, ground",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49791,
+            "food_name": "Pasta, wholewheat, spaghetti, dried, boiled in unsalted water",
+            "onto_foods": [
+                "Pasta"
+            ],
+            "onto_cooking_style": "Dried"
+        },
+        {
+            "food_id": 50384,
+            "food_name": "Sauce, pasta, tomato based, napoletana",
+            "onto_foods": [
+                "Pasta"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 1591,
+            "food_name": "Cheese, parmesan, grated",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28190,
+            "food_name": "Soya, alternative to yoghurt (Provamel Dairy Free (Yofu) with added calcium)",
+            "onto_foods": [
+                "Dairy",
+                "Yoghurt"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48999,
+            "food_name": "Endive, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 49870,
+            "food_name": "Pepper, capsicum, yellow, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 67384,
+            "food_name": "Yogurt, Greek, plain, lowfat",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 47910,
+            "food_name": "Almonds, toasted",
+            "onto_foods": [
+                "Almond"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49601,
+            "food_name": "Muesli, Swiss style, no added sugar or salt, unfortified",
+            "onto_foods": [
+                "Salt"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49572,
+            "food_name": "Milk, soya, non-dairy alternative to milk, unsweetened, fortified",
+            "onto_foods": [
+                "Milk"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 22767,
+            "food_name": "Soup, lentils, prepacked, to be reheated",
+            "onto_foods": [
+                "Lentil"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 21988,
+            "food_name": "Nutritional yeast",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4587,
+            "food_name": "Mushrooms, portabella, grilled",
+            "onto_foods": [],
+            "onto_cooking_style": "Grilled"
+        },
+        {
+            "food_id": 48060,
+            "food_name": "Beans, soya, dried, raw",
+            "onto_foods": [
+                "Bean"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 49967,
+            "food_name": "Plums, average, raw, flesh and skin, weighed with stones",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 16061,
+            "food_name": "Seitan Seara",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50224,
+            "food_name": "Ratatouille, homemade",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49235,
+            "food_name": "Ice cream, non dairy, vanilla, soft scoop",
+            "onto_foods": [
+                "Dairy",
+                "Cream",
+                "Ice cream"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4025,
+            "food_name": "Pears, raw, green anjou",
+            "onto_foods": [
+                "Pear"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48464,
+            "food_name": "Cauliflower in white sauce, made with skimmed milk, homemade",
+            "onto_foods": [
+                "Milk"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 27408,
+            "food_name": "Carrots",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6518,
+            "food_name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+            "onto_foods": [
+                "Bean",
+                "Chickpea",
+                "Seed"
+            ],
+            "onto_cooking_style": "Canned"
+        },
+        {
+            "food_id": 3978,
+            "food_name": "Raspberries, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 81795,
+            "food_name": "Yoghurt, high in protein, on a fruit layer",
+            "onto_foods": [
+                "Yoghurt",
+                "Fruit"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48310,
+            "food_name": "Bread, wholemeal, toasted",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4741,
+            "food_name": "Radishes, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 50500,
+            "food_name": "Spinach, baby, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 1719,
+            "food_name": "Parmesan cheese topping, fat free",
+            "onto_foods": [
+                "Cheese"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50093,
+            "food_name": "Porridge oats, unfortified, cooked, made up with semi-skimmed milk",
+            "onto_foods": [
+                "Oat"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 49837,
+            "food_name": "Pears, average, raw, flesh only",
+            "onto_foods": [
+                "Pear"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 3774,
+            "food_name": "Blueberries, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 6323,
+            "food_name": "Beans, white, mature seeds, cooked, boiled, without salt",
+            "onto_foods": [
+                "Bean",
+                "Seed"
+            ],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 49448,
+            "food_name": "Lettuce, average, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48800,
+            "food_name": "Cucumber, raw, flesh and skin",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 6407,
+            "food_name": "Hummus, home prepared",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 5163,
+            "food_name": "Carrots, baby, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 23123,
+            "food_name": "Veal, escalope, cooked",
+            "onto_foods": [
+                "Veal"
+            ],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 48391,
+            "food_name": "Cabbage, red, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48438,
+            "food_name": "Carrots, young, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 3963,
+            "food_name": "Pomegranates, raw",
+            "onto_foods": [
+                "Pomegranate"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 67452,
+            "food_name": "Goji berries, dried",
+            "onto_foods": [],
+            "onto_cooking_style": "Dried"
+        },
+        {
+            "food_id": 49869,
+            "food_name": "Pepper, capsicum, yellow, boiled in unsalted water",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 49867,
+            "food_name": "Pepper, capsicum, red, boiled in unsalted water",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 6472,
+            "food_name": "SILK Plain soy yogurt",
+            "onto_foods": [
+                "Soy"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 5226,
+            "food_name": "Nuts, almonds",
+            "onto_foods": [
+                "Nut",
+                "Almond"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 3884,
+            "food_name": "Nectarines, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 3748,
+            "food_name": "Apricots, raw",
+            "onto_foods": [
+                "Apricot"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 3915,
+            "food_name": "Peaches, yellow, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 9589,
+            "food_name": "Tortillas, ready-to-bake or -fry, whole wheat",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50637,
+            "food_name": "Tomatoes, cherry, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 81269,
+            "food_name": "Wheat tortilla wrap, to be filled",
+            "onto_foods": [
+                "Wheat"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 3765,
+            "food_name": "Avocados, raw, California",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48368,
+            "food_name": "Burger, beef, grilled, homemade",
+            "onto_foods": [
+                "Beef"
+            ],
+            "onto_cooking_style": "Grilled"
+        },
+        {
+            "food_id": 50221,
+            "food_name": "Raspberries, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 50092,
+            "food_name": "Porridge oats, unfortified",
+            "onto_foods": [
+                "Oat"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49864,
+            "food_name": "Pecan nuts, kernel only, weighed with shells",
+            "onto_foods": [
+                "Nut",
+                "Pecan"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 50550,
+            "food_name": "Sunflower seeds",
+            "onto_foods": [
+                "Seed",
+                "Sunflower seed"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 47931,
+            "food_name": "Apricots, dried",
+            "onto_foods": [
+                "Apricot"
+            ],
+            "onto_cooking_style": "Dried"
+        },
+        {
+            "food_id": 50789,
+            "food_name": "Yogurt, low fat, plain",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 3730,
+            "food_name": "Apples, raw, with skin",
+            "onto_foods": [
+                "Apple"
+            ],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 49525,
+            "food_name": "Melon, Canteloupe-type, flesh only",
+            "onto_foods": [
+                "Melon"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 81748,
+            "food_name": "Oat-based drink, plain",
+            "onto_foods": [
+                "Drink"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48945,
+            "food_name": "Dressing, French, fat free",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48223,
+            "food_name": "Biscuits, digestive, plain",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 49313,
+            "food_name": "Lamb, chump chops, fried, lean and fat, weighed with bone",
+            "onto_foods": [
+                "Lamb"
+            ],
+            "onto_cooking_style": "Fried"
+        },
+        {
+            "food_id": 49846,
+            "food_name": "Peas, boiled in unsalted water",
+            "onto_foods": [
+                "Pea"
+            ],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 50146,
+            "food_name": "Potatoes, old, mashed with reduced fat spread",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 48436,
+            "food_name": "Carrots, young, boiled in unsalted water",
+            "onto_foods": [],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 7761,
+            "food_name": "Puddings, chocolate, ready-to-eat, fat free",
+            "onto_foods": [],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 28523,
+            "food_name": "Soup, tomato and lentil, homemade",
+            "onto_foods": [
+                "Lentil"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 6433,
+            "food_name": "Tempeh, cooked",
+            "onto_foods": [],
+            "onto_cooking_style": "Cooked"
+        },
+        {
+            "food_id": 81345,
+            "food_name": "Quinoa, boiled/cooked in water, unsalted",
+            "onto_foods": [
+                "Quinoa"
+            ],
+            "onto_cooking_style": "Boiled"
+        },
+        {
+            "food_id": 48900,
+            "food_name": "Curry, vegetable, frozen mixed vegetables, homemade",
+            "onto_foods": [
+                "Vegetable"
+            ],
+            "onto_cooking_style": "Frozen"
+        },
+        {
+            "food_id": 5284,
+            "food_name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+            "onto_foods": [
+                "Butter",
+                "Sesame",
+                "Seed"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 4761,
+            "food_name": "Spinach, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 5032,
+            "food_name": "Peppers, sweet, red, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 4624,
+            "food_name": "Onions, raw",
+            "onto_foods": [],
+            "onto_cooking_style": "Raw"
+        },
+        {
+            "food_id": 48286,
+            "food_name": "Bread, brown, average",
+            "onto_foods": [
+                "Bread"
+            ],
+            "onto_cooking_style": "raw"
+        },
+        {
+            "food_id": 5295,
+            "food_name": "Nuts, almond butter, plain, without salt added",
+            "onto_foods": [
+                "Butter",
+                "Nut",
+                "Almond"
+            ],
+            "onto_cooking_style": "raw"
+        }
+    ]
+}

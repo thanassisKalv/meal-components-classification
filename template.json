@@ -1,0 +1,13 @@
+{
+	"existing": [],
+	
+	"correspondences": [
+		{
+			"food_id": 678398,
+			"food_name": "Cereals ready-to-eat, granola, homemade",
+			"onto_foods": ["cereal"],
+			"onto_cooking_style": "raw"
+		}
+	
+	]
+}

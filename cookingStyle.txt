@@ -1,0 +1,11 @@
+Cooking-preparation_style
+	Canned
+	Cooked
+		Baked
+		Boiled
+		Broiled
+		Fried
+		Grilled
+	Dried
+	Frozen
+	Raw
